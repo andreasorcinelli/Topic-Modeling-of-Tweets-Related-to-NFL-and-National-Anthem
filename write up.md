@@ -14,9 +14,7 @@ So topic 1 seems to be something political. And topic 2 seems to be some sort of
 
 But I want to draw your attention back to topic 1 for a moment. As I mentioned, I played around with the hyperparameters a lot, including the number of top words for each topic. 7 top words seemed to result in the most coherent topics, but when I examined the top 8 words, the 8th word in the first topic, the "political" one as I am calling it, the last word in the topic was ted. Why was Ted Cruz coming up in a discussion about the NFL and the national anthem? I thought this was a bit strange so next I decided to visualize the data to see if that would help.
 
-![](word cloud.png)
-
-Here you can see a word cloud representation of my twitter data so more frequent words are shown as larger and what you can see is that ted cruz is indeed being heavily mentioned in tweets relating to the NFL and the national anthem but so is his opponent in the current senate race, Beto O’Rouke. I did a quick google search to see why this might be the case and I quickly discovered a video of Beto O’Rouke at a campaign event that was going viral at the time.
+You can see a word cloud representation of my twitter data so more frequent words are shown as larger and what you can see is that ted cruz is indeed being heavily mentioned in tweets relating to the NFL and the national anthem but so is his opponent in the current senate race, Beto O’Rouke. I did a quick google search to see why this might be the case and I quickly discovered a video of Beto O’Rouke at a campaign event that was going viral at the time.
 
 There were also some steps that I wanted to take on in this project that I didn’t get to.
 
